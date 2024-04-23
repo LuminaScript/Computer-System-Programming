@@ -1,4 +1,4 @@
-#### **Representing information as bits**
+#### I. **Representing information as bits**
 
 - **Byte = 8 bits**
 
@@ -39,7 +39,7 @@
 
 
 
-#### **Bit-level manipulations**
+#### II. **Bit-level manipulations**
 
 - **Boolean Algebra** 
   - <u>And</u>: A & B = 1 when A = 1 and B = 1
@@ -81,7 +81,9 @@
   - <u>Undefined behaviorus</u>:
     - Shift amount < 0 or >= word size
 
-#### **Integers**
+
+
+#### III. **Integers**
 
 * **Representation: unsigned and signed**
 
@@ -217,13 +219,9 @@
 
   - <u>Using bits to represent Sets</u> (logical rightshift, no sign extension)
 
+  
 
-
-x = 111111
-
-y = 
-
-**Representations in memory, pointers, strings**
+#### IV. **Representations in memory, pointers, strings**
 
 - **Byte-oriented Memory Organization**: 
 
@@ -249,7 +247,7 @@ y =
 
   
 
-#### Integer C Puzzles
+#### V. Integer C Puzzles
 
 ```c
 int x = foo();
