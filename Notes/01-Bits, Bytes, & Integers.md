@@ -1,4 +1,4 @@
-#### I. **Representing information as bits**
+## I. **Representing information as bits**
 
 - **Byte = 8 bits**
 
@@ -39,7 +39,7 @@
 
 
 
-#### II. **Bit-level manipulations**
+## II. **Bit-level manipulations**
 
 - **Boolean Algebra** 
   - <u>And</u>: A & B = 1 when A = 1 and B = 1
@@ -83,7 +83,7 @@
 
 
 
-#### III. **Integers**
+## III. **Integers**
 
 * **Representation: unsigned and signed**
 
@@ -221,7 +221,7 @@
 
   
 
-#### IV. **Representations in memory, pointers, strings**
+## IV. **Representations in memory, pointers, strings**
 
 - **Byte-oriented Memory Organization**: 
 
@@ -247,7 +247,7 @@
 
   
 
-#### V. Integer C Puzzles
+## V. Integer C Puzzles
 
 ```c
 int x = foo();
